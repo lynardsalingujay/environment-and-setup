@@ -1,9 +1,9 @@
-# environment-and-setup
+# This is my environment and setup notes
 
-### nodejs
+### NODEJS
 download: https://nodejs.org/en/
 
-### vscode
+### VSCODE
 download: https://code.visualstudio.com/  
 extension  
 * bracket pair colorizer (coenraads) - visualize the blocks, color
@@ -16,13 +16,13 @@ extension
 },
 ```
 
-git - version control system
+### GIT
 
-postman - makes http request to server backend (api)
+### POSTMAN
 
-react developers tools - chrome's extension 
+### React Developers Tools
 
-redux devtools - shows entire application, shows the action
+### Redux DevTools
 
 
 
