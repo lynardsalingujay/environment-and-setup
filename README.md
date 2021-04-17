@@ -1,10 +1,10 @@
 # This is my environment and setup notes
 
 ### NODEJS
-download: https://nodejs.org/en/
+website: https://nodejs.org/en/
 
 ### VSCODE
-download: https://code.visualstudio.com/  
+website: https://code.visualstudio.com/  
 extension  
 * bracket pair colorizer (coenraads) - visualize the blocks, color
 * es7 react/redux/graphql/react-native snippets (dsznajder) - generate components, shortcuts
@@ -24,5 +24,7 @@ extension
 
 ### Redux DevTools
 
+### MongoDB Atlas
+website: https://www.mongodb.com
 
 
