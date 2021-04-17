@@ -25,6 +25,6 @@ extension
 ### Redux DevTools
 
 ### MongoDB Atlas
-website: https://www.mongodb.com
+website: https://www.mongodb.com/cloud/atlas
 
 
