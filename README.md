@@ -1,31 +1,41 @@
+
 # This is my environment and setup notes
 
-### NODEJS
+# NODEJS
 website: https://nodejs.org/en/
 
-### VSCODE
+# VSCODE
 website: https://code.visualstudio.com/  
-extension  
-* bracket pair colorizer (coenraads) - visualize the blocks, color
-* es7 react/redux/graphql/react-native snippets (dsznajder) - generate components, shortcuts
-* prettier - code formatter (esben petersen) - change in save, edit the settings  
+
+**Extension**  
+- Bracket Pair Colorizer (coenraads)
+- ES7 React/Redux/Graphql/React-Native Snippets (dsznajder)
+- Prettier - Code Formatter (esben petersen) 
+In the ***prettier settings***, checked the checkbox for the following: 
+> Jsx Single Quote
+
+> Single Quote 
+
 
 ```
 "emmet.includeLanguages": {
    "javascript": "javascriptreact"
 },
 ```
+**Settings**
+to format preetier when save, checked the checkbox
+> Format On Save
 
-### GIT
+# GIT
 
-### POSTMAN
+# POSTMAN
 
-### React Developers Tools
+# React Developers Tools
 
-### Redux DevTools
+# Redux DevTools
 
-### MongoDB Atlas
+# MongoDB Atlas
 website: https://www.mongodb.com/cloud/atlas
 
-### Mongoosejs
+# Mongoosejs
 website: https://mongoosejs.com/
