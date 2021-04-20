@@ -28,6 +28,14 @@ to format preetier when save, checked the checkbox
 
 # GIT
 
+```bash
+git init
+git add .
+git commit -m "first commit"
+git remote add origin git@gitlab.domain.com:username/repository.git
+git push -u origin master
+```
+
 # POSTMAN
 
 # React Developers Tools
