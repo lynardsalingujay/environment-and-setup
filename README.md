@@ -10,12 +10,12 @@ website: https://code.visualstudio.com/
 **Extension**  
 - Bracket Pair Colorizer (coenraads)
 - ES7 React/Redux/Graphql/React-Native Snippets (dsznajder)
-- Prettier - Code Formatter (esben petersen) 
+- Prettier - Code Formatter (esben petersen)  
 In the ***prettier settings***, checked the checkbox for the following: 
-> Jsx Single Quote
-
-> Single Quote 
-
+```
+Jsx Single Quote
+Single Quote 
+```
 
 ```
 "emmet.includeLanguages": {
